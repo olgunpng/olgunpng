@@ -13,9 +13,7 @@
 Otomasyon ve AI-destekli sistemler üzerine çalışan bir developer'ım. Prodüksiyonda çalışan, gerçek trafik alan sistemler kuruyorum — demo değil, canlı ürün.
 
 - 🔭 Şu anda **yontemhaber.com**'u geliştiriyorum: RSS ingestion → LLM sınıflandırma/yeniden yazım → görsel üretim → çoklu platform dağıtımı yapan tam otomatik bir haber pipeline'ı
-- 🛠️ Kurumsal web siteleri, admin panelleri, Instagram/AI chat otomasyonu geliştiriyorum (bkz. [boryal1](https://github.com/olgunpng/boryal1))
-- 🔐 Siber güvenlik / pentest yolunda ilerliyorum — Kali Linux, Burp Suite, TryHackMe, PortSwigger Web Academy
-- 📈 İlgi alanları: finansal piyasalar (BIST, TEFAS, VİOP), otomasyon mimarisi, LLM tabanlı sistemler
+- 🛠️ Kurumsal web siteleri, admin panelleri, Instagram/AI chat otomasyonu geliştiriyorum.
 
 ---
 
@@ -38,7 +36,6 @@ Otomasyon ve AI-destekli sistemler üzerine çalışan bir developer'ım. Prodü
 | Proje | Açıklama |
 |---|---|
 | 🗞️ **yontemhaber pipeline** | RSS → LLM sınıflandırma → görsel üretim → Telegram/Bluesky dağıtımı yapan 4 aşamalı n8n otomasyonu |
-| 🏗️ **[boryal1](https://github.com/olgunpng/boryal1)** | Next.js 16 kurumsal site + admin panel + AI chat asistanı |
 
 > Not: n8n workflow'ları görsel/JSON tabanlı olduğu için GitHub'da doğrudan görünmüyor — mimari diyagramları ayrı bir repo'da paylaşılabilir.
 
