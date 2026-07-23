@@ -63,9 +63,6 @@
 ---
 
 ## 📌 Öne Çıkan Projeler
-
-> `| [emoji] **[Proje Adı]** | [Kısa açıklama] | ![Tech](https://img.shields.io/badge/-Tech-black) | [🔗 Repo/Site](link) |`
-
 | Proje | Açıklama | Stack | Link |
 |---|---|---|---|
 | `Yöntem Haber` | `Tamamen AI ile çalışan bir haber platformudur.` | `n8n, Supabase, Cloudinary, Groq, Gemini API` | `https://www.yontemhaber.com` |
