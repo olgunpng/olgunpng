@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&animation=fadeIn" width="100%"/>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=800&color=6C7BE0&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+olgun_eser;%24+systemctl+status+pipelines;%3E+%E2%97%8F+active+(running)" alt="terminal typing"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=8A93A8&center=true&vCenter=true&width=650&lines=n8n+%2B+Supabase+%2B+LLM+destekli+prod%C3%BCksiyon+sistemleri;Demo+de%C4%9Fil%2C+ger%C3%A7ek+trafik+alan+%C3%BCr%C3%BCnler;Otomasyon+%C2%B7+Backend+%C2%B7+AI+Entegrasyonu" alt="tagline typing"/>
@@ -12,21 +8,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=olgunpng&label=PROFILE+VIEWS&color=6C7BE0&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PROD-2E3192?style=for-the-badge" alt="status"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-██████╗ ██████╗ ███████╗██╗   ██╗██╗███╗   ███╗
-██╔══██╗██╔══██╗██╔════╝██║   ██║██║████╗ ████║
-██████╔╝██████╔╝█████╗  ██║   ██║██║██╔████╔██║
-██╔═══╝ ██╔══██╗██╔══╝  ██║   ██║██║██║╚██╔╝██║
-██║     ██║  ██║███████╗╚██████╔╝██║██║ ╚═╝ ██║
-╚═╝     ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝╚═╝     ╚═╝
-```
 
 </div>
 
