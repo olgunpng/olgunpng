@@ -71,8 +71,10 @@
 | `Yöntem Haber` | `Tamamen AI ile çalışan bir haber platformudur.` | `n8n, Supabase, Cloudinary, Groq, Gemini API` | `https://www.yontemhaber.com` |
 | `Yeşil Evren` | `Bilim/teknoloji forum sitesidir.` | `Next.js, Supabase, PostgreSQL, Tailwind CSS, Vercel` | `https://www.yesilevren.net` |
 | `Ziyalılar` | `Online dergi sitesidir.` | `ReactJS, Supabase` | `https://www.ziyalilar.org` |
-| `Stack up Stack!` | `Basit ve bağımlılık yaratan bir stacking/kule dizme mobil oyunu.` | `Expo (React Native), Supabase` | `https://www.ziyalilar.org` |
-| `Poppfy` | `Kayıt şirketleri arasında anlık fiyat karşılaştırması yapan AI destekli domain öneren, size uygun domaini bulmanıza yardımcı olan bir uygulama.` | `Next.js, React, Supabase, PostgreSQL, Tailwind CSS, Three.js, GSAP, Vercel` | `https://www.ziyalilar.org` |
+| `Stack up Stack!` | `Basit ve bağımlılık yaratan bir stacking/kule dizme mobil oyunu.` | `Expo (React Native), Supabase` | `https://github.com/olgunpng/stackbystack-legal` |
+| `Poppfy` | `Kayıt şirketleri arasında anlık fiyat karşılaştırması yapan AI destekli domain öneren, size uygun domaini bulmanıza yardımcı olan bir uygulama.` | `Next.js, React, Supabase, PostgreSQL, Tailwind CSS, Three.js, GSAP, Vercel` | `https://www.poppfy.com` |
+| `BlueSky Takibi Bırakanlar` | `BlueSky için takibi bırakanlar uygulaması, ` | `ReactJS, MongoDB, Bootstrap, Vercel` | `https://github.com/olgunpng/blueskytakipci` |
+
 
 ---
 
