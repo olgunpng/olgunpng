@@ -1,7 +1,9 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&animation=fadeIn" width="100%"/>
+
 <br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=800&color=6C7BE0&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+olgun_eser;%24+systemctl+status+pipelines;%3E+%E2%97%8F+active+(running)" alt="terminal typing"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=8A93A8&center=true&vCenter=true&width=650&lines=n8n+%2B+Supabase+%2B+LLM+destekli+prod%C3%BCksiyon+sistemleri;Demo+de%C4%9Fil%2C+ger%C3%A7ek+trafik+alan+%C3%BCr%C3%BCnler;Otomasyon+%C2%B7+Backend+%C2%B7+AI+Entegrasyonu" alt="tagline typing"/>
@@ -13,7 +15,7 @@
 
 </div>
 
----
+<br/>
 
 ## 🧠 Hakkımda
 
@@ -31,32 +33,36 @@
 
 <div align="center">
 
-**Diller**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
-
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,bootstrap,tailwind,vue" />
 
-**Backend / Infra**
+**Backend & Framework**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,docker,nginx,vercel" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
+
+**Veritabanı**
+<br/>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb" />
+
+**Deploy & Hosting**
+<br/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
 
 **Otomasyon & AI**
 <br/>
-<img src="https://skillicons.dev/icons?i=n8n,py" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepInfra-1A1A2E?style=for-the-badge&logoColor=white" />
 
-**Araçlar**
+**CMS & Araçlar**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,bash" />
+<img src="https://skillicons.dev/icons?i=wordpress,figma,git,docker" />
 
 </div>
 
-> 💡 Not: `skillicons.dev` her teknolojiyi desteklemiyor (n8n, Groq, DeepInfra gibi bazı isimler yoksa ikon boş dönebilir) — eksik kalanları shields.io badge olarak elle ekledim, sen de kendi listene göre çoğaltabilirsin.
+> 💡 Not: `n8n` ve `Cloudinary` için Simple Icons'ta resmi logo var, o yüzden düzgün ikonla çıkıyorlar. `Groq` ve `DeepInfra` içinse ne skillicons.dev'de ne de shields.io'nun kullandığı ikon setinde resmi bir logo var — bu ikisi düz metin badge olarak kalacak, logo eklemenin şu an bir yolu yok.
 
 ---
 
